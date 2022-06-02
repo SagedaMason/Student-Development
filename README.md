@@ -6,3 +6,6 @@
 # Phase 3: Analyze Data
 # Phase 4: Data Model
 # Phase 5: Deploy Project
+
+# Here’s an update to my Student Development Project 
+# During this phase, I’ll identify the project’s problem and discuss the action plan. For privacy, we’ll call the student Bill, although that is not the student’s legal name. 
