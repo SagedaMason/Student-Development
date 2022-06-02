@@ -9,3 +9,4 @@
 
 # Here’s an update to my Student Development Project 
 # During this phase, I’ll identify the project’s problem and discuss the action plan. For privacy, we’ll call the student Bill, although that is not the student’s legal name. 
+![IMG_8272](https://user-images.githubusercontent.com/105477139/171724726-9a14eee8-9de5-4f8b-a02b-9cc398b06a21.jpg)
