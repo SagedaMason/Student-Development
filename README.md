@@ -79,4 +79,5 @@ At this stage I was a bit stuck on the proccess for cleaning my data, so I used 
 Attempt 1- https://www.youtube.com/watch?v=-Bnw-9ivbeo
 
 Here is a link to a short video that explains what clean "good" data is in less than 15 minutes. Because I found this information very useful, I will be undergoing my first attempt to clean the data located in the spreadsheet posted above. This video stands out to me because it is short, clear and concise. I want to test if the information I learned in this video will suffice in my data cleaning stage. In other words, will I be able to upload "good" data into a database, Power BI, after my first cleaning attempt? 
+
 Results are here https://docs.google.com/spreadsheets/d/1oElXtanXMpARm0_FkpQjBjKVrR6ZHwU2Hq74l2dCx-Q/edit?usp=sharing. This spreadsheet is being cleaned currently.
