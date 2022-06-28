@@ -84,6 +84,7 @@ Here is a link to a short video that explains what clean "good" data is in less 
 Durind this attempt, I focused on the following.
 
 Remove "totals." The database will calculate those.
+
 Remove null cells by deleting rows/columns and filling in informatuon that needed to be repeated. 
 
 Results are here https://docs.google.com/spreadsheets/d/1oElXtanXMpARm0_FkpQjBjKVrR6ZHwU2Hq74l2dCx-Q/edit?usp=sharing. This spreadsheet is being cleaned currently.
