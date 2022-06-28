@@ -1,4 +1,4 @@
-# Student-Development
+# Project Student-Development
 # In March 2022, I decided to pursue a career in Data Science. I've operated a tutoring business for 8 years and taught math for 3 years. I am currently seeking a job in Data Science while re-branding my business. My goals for this project are listed below.
 # Phase 1: Project Overview
 # Phase 2: Collect and Clean Data  
