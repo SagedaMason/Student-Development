@@ -38,18 +38,35 @@ SP- Statistics and Probability
 
 In order to identify the information I needed for Bill's individual analysis report, I had to consider the information I wanted to present. Therefore, I asked myself a questions; Some are listed below. This report will provide quantative and qualatative data.
 
-A. Quantatative Data:
+A. Quantatative Data: Numerical 
 
 1. At what grade level did I notice a gap in Bill's math retention and how large is this descrepency? 
-2. In which standard(s) did I notice the greatest or least gap?
-3. Can I make predictions about his performance in future math classes based off of these findings?
-4. How can I quickly target Bill's specific needs after I have his report?
-5. Is bill struggling or accelerating within the same standard throughout grade levels?
+2. What is his accuracy for each domain at each grade level?
+3. What is his average accuracy for every domain through grade levels?
+4. What is his average accuracy for each standard?
+5. How much time does it take him to complete each exam? each question?
+6. How many questions does he answer correctly/incorrectly for each exam?
+7. How many different standards are being tested within each exam?
+8. How many questions are on each test?
+9. How many columns will there be?
 
-B. Qualatative Data:
+
+B. Qualatative Data: Categorical 
+
+1. What specific domains are being tested?
+2. What specific standards are being tested?
+3. What will be the headings for each column?
+
+C. Other Questions: While the aboved questions primarily focus on inputing data, the following questions focus on data output. They highlight the information uses  of Bill's analysis. 
 
 1. How can I present Bill's visually, clearly and quickly? I want the student, teachers and parents to have an at-glance look at Bill's specific strengths, weaknesses and needs. 
-
+2. How can this be usesul outside of the classroom, at home, or during everyday life?
+3. How can this information help stay engaged and interested in learning math?
+4. In which standard(s) did I notice the greatest or least gap?
+5. Can I make predictions about his performance in future math classes based off of these findings?
+6. How can I quickly target Bill's specific needs after I have his report?
+7. Is bill struggling or accelerating within the same standard throughout grade levels?
+8. Can I hypothesis why the student has not been performing well within a specific grade level, domain or standard?
 
 side note: Collecting data was important to I will be able to get a more precise understanding of the skills that he needs in order to improve.
 
