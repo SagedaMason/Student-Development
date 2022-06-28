@@ -16,9 +16,8 @@ Phase 5: Deploy Project
 # Phase 1: Project Overview
 During this phase, I’ll identify the project’s problem and discuss the action plan. For privacy, I’ll call the student Bill, although that is not the student’s legal name. 
 
-![IMG_8272](https://user-images.githubusercontent.com/105477139/171724726-9a14eee8-9de5-4f8b-a02b-9cc398b06a21.jpg)
-
 Bill is an 8th-grade student who takes Algebra. I’ve tutored him for two years, and during that time, I discovered that he struggles to grasp and retain complex mathematical concepts. Moreover, he lacks foundational arithmetic skills. Bill is an eager learner who wants to develop but also struggles to stay engaged in a typical math classroom setting. After I hesitated to undergo a complete analysis of him, I decided that it was necessary for him to reach his full potential while maximizing time. I hypothesize that the results from this analysis will allow me, the student, his parents, and teachers to anticipate his upcoming struggles and gain a precise understanding of the skills he needs to improve in math. 
+![IMG_8272](https://user-images.githubusercontent.com/105477139/171724726-9a14eee8-9de5-4f8b-a02b-9cc398b06a21.jpg)
 # Phase 2: Collect and Clean Data
 Over eight weeks, Bill completed fifteen 6th-8th grade, math diagnostic assessments on Edulastic. During our weekly, virtual tutoring sessions, the following domains were examined.
 
