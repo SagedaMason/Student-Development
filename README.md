@@ -17,7 +17,7 @@ Phase 5: Deploy Project
 During this phase, I’ll identify the project’s problem and discuss the action plan. For privacy, I’ll call the student Bill, although that is not the student’s legal name. 
 Bill is an 8th-grade student who takes Algebra. I’ve tutored him for two years, and during that time, I discovered that he struggles to grasp and retain complex mathematical concepts. Moreover, he lacks foundational arithmetic skills. Bill is an eager learner who wants to develop but also struggles to stay engaged in a typical math classroom setting. After I hesitated to undergo a complete analysis of him, I decided that it was necessary for him to reach his full potential while maximizing time. I hypothesize that the results from this analysis will allow me, the student, his parents, and teachers to anticipate his upcoming struggles and gain a precise understanding of the skills he needs to improve in math. 
 
-# Phase 2: Collect and Clean Data
+# Phase 2: Part One-Collect Data
 Over eight weeks, Bill completed fifteen 6th-8th grade, math diagnostic assessments on Edulastic. During our weekly, virtual tutoring sessions, the following domains were examined.
 
 NBT- Numbers & Operations in Base Ten
@@ -57,21 +57,25 @@ B. Qualatative Data: Categorical
 2. What specific standards are being tested?
 3. What will be the headings for each column?
 
-C. Other Questions: While the aboved questions primarily focus on inputing data, the following questions focus on data output. They highlight the information uses  of Bill's analysis. 
+C. Other Questions: While the aboved questions primarily focus on inputing data, the following questions focus on data output. They highlight the uses of Bill's analysis. 
 
-1. How can I present Bill's visually, clearly and quickly? I want the student, teachers and parents to have an at-glance look at Bill's specific strengths, weaknesses and needs. 
+1. How can I present Bill's report visually, clearly and quickly? I want the student, teachers and parents to have an at-glance look at Bill's specific strengths, weaknesses and needs. 
 2. How can this be usesul outside of the classroom, at home, or during everyday life?
-3. How can this information help stay engaged and interested in learning math?
+3. How can this information help him stay engaged and interested in learning math?
 4. In which standard(s) did I notice the greatest or least gap?
 5. Can I make predictions about his performance in future math classes based off of these findings?
 6. How can I quickly target Bill's specific needs after I have his report?
 7. Is bill struggling or accelerating within the same standard throughout grade levels?
 8. Can I hypothesis why the student has not been performing well within a specific grade level, domain or standard?
-
+9. Do we see the same trends in other subjects?
+10. 
 side note: Collecting data was important to I will be able to get a more precise understanding of the skills that he needs in order to improve.
 
+Data Collection: Here is a link to the data. Please note that the data is not clean yet. https://docs.google.com/spreadsheets/d/1-1cyhR_83vV6k1KQBRlekau0TLh0IJWKE04QCZ5lhzI/edit#gid=0 
 
+# Phase 2: Part Two-Clean Data
+At this point I was a bit stuck on the proccess for cleaning my data, so I used a few resources.
 
-https://docs.google.com/spreadsheets/d/1-1cyhR_83vV6k1KQBRlekau0TLh0IJWKE04QCZ5lhzI/edit#gid=0 
-Now that 
-# https://www.youtube.com/watch?v=-Bnw-9ivbeo Here is a link to a short video that explains what clean "good" data is in less than 15 minutes. Because I found this information very useful, I will be undergoing my first attempt to clean the data located in the spreadsheet posted above. This video stands out to me because it is short, clear and appears to be stright forward. I want to test if the information I learned in this video will suffice in my data cleaning stage. In other words, will I be able to upload "good" data into a database, Power BI, after my first cleaning attempt? Results are below. 
+Resourse 1- https://www.youtube.com/watch?v=-Bnw-9ivbeo
+
+Here is a link to a short video that explains what clean "good" data is in less than 15 minutes. Because I found this information very useful, I will be undergoing my first attempt to clean the data located in the spreadsheet posted above. This video stands out to me because it is short, clear and appears to be stright forward. I want to test if the information I learned in this video will suffice in my data cleaning stage. In other words, will I be able to upload "good" data into a database, Power BI, after my first cleaning attempt? Results are below. 
