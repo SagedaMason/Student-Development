@@ -37,6 +37,21 @@ G- Geometry
 
 SP- Statistics and Probability 
 
+In order to identify the information I needed for Bill's individual analysis report, I had to consider the information I wanted to present. Therefore, I asked myself a questions; Some are listed below. This report will provide quantative and qualatative data.
+
+A. Quantatative Data:
+
+1. At what grade level did I notice a gap in Bill's math retention and how large is this descrepency? 
+2. In which standard(s) did I notice the greatest or least gap?
+3. Can I make predictions about his performance in future math classes based off of these findings?
+4. How can I quickly target Bill's specific needs after I have his report?
+5. Is bill struggling or accelerating within the same standard throughout grade levels?
+
+B. Qualatative Data:
+
+1. How can I present Bill's visually, clearly and quickly? I want the student, teachers and parents to have an at-glance look at Bill's specific strengths, weaknesses and needs. 
+
+
 side note: Collecting data was important to I will be able to get a more precise understanding of the skills that he needs in order to improve.
 
 
