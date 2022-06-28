@@ -6,8 +6,8 @@
 # Phase 4: Data Model
 # Phase 5: Deploy Project
 1. Determine student deficiency in order to target specific needs for growth and predict outcomes. 
-2. 2. Merge the student's evaluation with new Data Science skills to practice creating a project while marketing evidence of my growth to recruiters and potential clients.
-![1](https://user-images.githubusercontent.com/105477139/171725262-7e795057-72b8-439b-a9cd-eccd6e1546ed.jpg
+2. Merge the student's evaluation with new Data Science skills to practice creating a project while marketing evidence of my growth to recruiters and potential clients.
+# ![1](https://user-images.githubusercontent.com/105477139/171725262-7e795057-72b8-439b-a9cd-eccd6e1546ed.jpg
 # Here’s an update to my Student Development Project 
 # During this phase, I’ll identify the project’s problem and discuss the action plan. For privacy, we’ll call the student Bill, although that is not the student’s legal name. 
 ![IMG_8272](https://user-images.githubusercontent.com/105477139/171724726-9a14eee8-9de5-4f8b-a02b-9cc398b06a21.jpg)
