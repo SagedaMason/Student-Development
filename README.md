@@ -22,15 +22,22 @@ Bill is an 8th-grade student who takes Algebra. I’ve tutored him for two years
 Over eight weeks, Bill completed fifteen 6th-8th grade, math diagnostic assessments on Edulastic. During our weekly, virtual tutoring sessions, the following domains were examined.
 
 NBT- Numbers & Operations in Base Ten
+
 M & D- Measurement and Data 
+
 NF- Number and Operations-Fractions
+
 OA- Operations & Algebraic Thinking 
+
 RP- Ratios and Proportions 
+
 EE- Expressions and Equations 
+
 G- Geometry 
+
 SP- Statistics and Probability 
 
- Collecting data was important to I will be able to get a more precise understanding of the skills that he needs in order to improve.
+side note: Collecting data was important to I will be able to get a more precise understanding of the skills that he needs in order to improve.
 
 
 
