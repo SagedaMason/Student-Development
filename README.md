@@ -68,10 +68,9 @@ C. Other Questions: While the aboved questions primarily focus on inputing data,
 7. Is bill struggling or accelerating within the same standard throughout grade levels?
 8. Can I hypothesis why the student has not been performing well within a specific grade level, domain or standard?
 9. Do we see the same trends in other subjects?
-10. 
-side note: Collecting data was important to I will be able to get a more precise understanding of the skills that he needs in order to improve.
 
-Data Collection: Here is a link to the data. Please note that the data is not clean yet. https://docs.google.com/spreadsheets/d/1-1cyhR_83vV6k1KQBRlekau0TLh0IJWKE04QCZ5lhzI/edit#gid=0 
+https://docs.google.com/spreadsheets/d/1-1cyhR_83vV6k1KQBRlekau0TLh0IJWKE04QCZ5lhzI/edit#gid=0 
+Here is a link to the data. Please note that the data is not clean yet. 
 
 # Phase 2: Part Two-Clean Data
 At this point I was a bit stuck on the proccess for cleaning my data, so I used a few resources.
