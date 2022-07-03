@@ -94,7 +94,7 @@ Although I've inserted the data into a spreadsheet, I'm going to create a table 
 First, I will list the code that I used to create the table.
 
 
-CREATE TABLE student
+CREATE TABLE student (
 
 test_id INT PRIMARY KEY
 
@@ -112,6 +112,12 @@ correct points INT,
 
 incorrect points INT,
 
-domaind VARCHAR(3),
+domain VARCHAR(3),
+
+time TIMESTAMP,
+
+total questions INT,
+
+);
 
 
