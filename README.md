@@ -98,26 +98,30 @@ CREATE TABLE student (
 
 test_id INT PRIMARY KEY
 
-grade level VARCHAR(3),
+grade_level VARCHAR(3),
 
-test type VARCHAR(30), 
+test_type VARCHAR(30), 
 
 standards VARCHAR(10),
 
 accuracy INT, 
 
-total points INT,
+total_points INT,
 
-correct points INT,
+correct_points INT,
 
-incorrect points INT,
+incorrect_points INT,
 
 domain VARCHAR(3),
 
-time TIMESTAMP,
-
-total questions INT,
 
 );
 
+
+** Each line, 99-115, represents the headings of the columnns inside of the table.**
+
+
+Next, I will insert information into the table. 
+
+INSERT into student VALUES (1, '6th' 	Numbers and Operations Base Ten 	5.NBT 	73	15	11	4	NBT );
 
