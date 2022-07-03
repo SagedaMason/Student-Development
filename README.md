@@ -94,13 +94,21 @@ Although I've inserted the data into a spreadsheet, I'm going to create a table 
 CREATE TABLE student
 
 test_id INT PRIMARY KEY
+
 grade level VARCHAR(3),
+
 test type VARCHAR(30), 
+
 standards VARCHAR(10),
+
 accuracy INT, 
+
 total points INT,
+
 correct points INT,
-incorrect points INT, 
+
+incorrect points INT,
+
 domaind VARCHAR(3),
 
 
