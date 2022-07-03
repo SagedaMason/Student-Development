@@ -125,3 +125,4 @@ Next, I will insert information into the table.
 
 INSERT into student VALUES (1, '6th' 	Numbers and Operations Base Ten 	5.NBT 	73	15	11	4	NBT );
 
+
