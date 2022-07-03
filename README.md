@@ -88,7 +88,7 @@ Remove "totals." The database will calculate those.
 Remove null cells by deleting rows/columns and filling in informatuon that needed to be repeated. 
 
 Results are here https://docs.google.com/spreadsheets/d/1oElXtanXMpARm0_FkpQjBjKVrR6ZHwU2Hq74l2dCx-Q/edit?usp=sharing. This spreadsheet is being cleaned currently.
-# Attempt 2: Create and Insert Data into Table in SQL.
+# Attempt 2: Create and Insert Data into Table using SQL.
 Although I've inserted the data into a spreadsheet, I'm going to create a table and insert the data into SQL. Below is the code.
 
 CREATE TABLE student
