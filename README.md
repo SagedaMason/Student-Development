@@ -91,6 +91,9 @@ Results are here https://docs.google.com/spreadsheets/d/1oElXtanXMpARm0_FkpQjBjK
 # Attempt 2: Create and Insert Data into Table using SQL.
 Although I've inserted the data into a spreadsheet, I'm going to create a table and insert the data into SQL. Below is the code.
 
+First, I will list the code that I used to create the table.
+
+
 CREATE TABLE student
 
 test_id INT PRIMARY KEY
