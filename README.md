@@ -90,7 +90,7 @@ Remove null cells by deleting rows/columns and filling in informatuon that neede
 Results are here https://docs.google.com/spreadsheets/d/1oElXtanXMpARm0_FkpQjBjKVrR6ZHwU2Hq74l2dCx-Q/edit?usp=sharing. This spreadsheet is being cleaned currently.
 # Phase 4: Data Model 
  I created an #interactive #dashboard using #powerbi. I am super excited to be able to provide this resource to parents, teachers, administrators and students. This content will be extremely useful with maximizing time while targeting student outcomes. Please contact me if you have any questions or want more information about how these student #data #analysis reports can be useful to you. I look forward to hearing from you.
-
+https://app.powerbi.com/groups/me/reports/85974a93-8af2-40da-8f68-6277e9631bfa/ReportSection
 
 
 
