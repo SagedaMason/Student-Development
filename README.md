@@ -88,41 +88,9 @@ Remove "totals." The database will calculate those.
 Remove null cells by deleting rows/columns and filling in informatuon that needed to be repeated. 
 
 Results are here https://docs.google.com/spreadsheets/d/1oElXtanXMpARm0_FkpQjBjKVrR6ZHwU2Hq74l2dCx-Q/edit?usp=sharing. This spreadsheet is being cleaned currently.
-# Attempt 2: Create and Insert Data into Table using SQL.
-Although I've inserted the data into a spreadsheet, I'm going to create a table and insert the data into SQL. Below is the code.
-
-First, I will list the code that I used to create the table.
+# Phase 4: Data Model 
+ I created an #interactive #dashboard using #powerbi. I am super excited to be able to provide this resource to parents, teachers, administrators and students. This content will be extremely useful with maximizing time while targeting student outcomes. Please contact me if you have any questions or want more information about how these student #data #analysis reports can be useful to you. I look forward to hearing from you.
 
 
-CREATE TABLE student (
-
-test_id INT PRIMARY KEY
-
-grade_level VARCHAR(3),
-
-test_type VARCHAR(30), 
-
-standards VARCHAR(10),
-
-accuracy INT, 
-
-total_points INT,
-
-correct_points INT,
-
-incorrect_points INT,
-
-domain VARCHAR(3),
-
-
-);
-
-
-** Each line, 99-115, represents the headings of the columnns inside of the table.**
-
-
-Next, I will insert information into the table. 
-
-INSERT into student VALUES (1, '6th' 	Numbers and Operations Base Ten 	5.NBT 	73	15	11	4	NBT );
 
 
